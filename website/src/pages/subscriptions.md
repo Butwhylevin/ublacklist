@@ -9,6 +9,7 @@ The blacklists featured on this page are user-generated content and are not endo
 :::
 
 # Subscriptions
+https://iorate.github.io/ublacklist/subscriptions
 
 [Add your subscription](https://github.com/iorate/ublacklist/edit/master/website/src/pages/subscriptions.md)
 
